@@ -1,2 +1,2 @@
 # bug-free-broccoli
-ETHGlobal hackathon 2021 project
+Break the chains blocking your prosperity, break into blockchain banking.
